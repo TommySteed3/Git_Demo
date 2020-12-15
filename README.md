@@ -16,3 +16,10 @@ move into production.
 12. git checkout -b dev
 
 
+What do these commands do?
+
+_git clone:_ This command makes a copy of selected repository.  
+
+_git checkout -b dev:_ This command actually performs 2 functions:
+a. Creates a new branch called dev.
+b. Checks out the new dev branch.
