@@ -1,4 +1,7 @@
-# Commands for submitting TEA code changes to approval for moving to production
+# Git for TEA
+Use the following commands to submit your changes for approval to
+move into production.
+
 1. git clone
 2. git checkout -b dev
 3. git add -all
